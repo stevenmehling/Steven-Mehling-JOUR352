@@ -48,7 +48,7 @@ h5{
   font-style: italic;
 }
 /*styled all the items that are bulleted*/
-li{
+ul li{
   font-size: 1em;
 }
 
