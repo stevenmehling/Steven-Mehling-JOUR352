@@ -21,3 +21,11 @@ b{
   font-size: 1.5em;
   color: #33485e;
 }
+
+h2{
+  font-size: 1.5em;
+  text-transform: uppercase;
+  background-color: #33485e;
+  color: white;
+  font-weight: 400;
+}
