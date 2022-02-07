@@ -1,27 +1,29 @@
+/*styles for my resume*/
+/*properties for body elements*/
 body {
     font-family: 'open sans', Arial, sans-serif;
     font-size: 1em;
     color: #444;
     font-weight: 400;
 }
-
+/*styles all section headers*/
 h1{
   font-size: 3em;  
   color: #33485e;
   text-transform: uppercase;
   text-align: center;
 }
-
+/*commented out my image*/
 img{
   display: none;
 }
-
+/*styles my bold text*/
 b{
   text-transform: uppercase;
   font-size: 1.5em;
   color: #33485e;
 }
-
+/*styled my section headers*/
 h2{
   font-size: 1.5em;
   text-transform: uppercase;
@@ -29,3 +31,24 @@ h2{
   color: white;
   font-weight: 400;
 }
+/*styled my job titles*/
+h3{
+  font-size: 1.5em;
+  font-weight: 600;
+}
+/*styled the organizations I worked for*/
+h4{
+  font-size: 1.5em;
+  font-weight: 400;
+}
+/*styled the dates I worked each job from*/
+h5{
+  font-weight: 400;
+  font-size: 1.5em;
+  font-style: italic;
+}
+/*styled all the items that are bulleted*/
+li{
+  font-size: 1em;
+}
+
