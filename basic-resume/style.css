@@ -70,4 +70,6 @@ ul li{
 .menu li{
   display: inline;
 }
-
+#degree{
+  margin: 5px 0 0 0;
+}
