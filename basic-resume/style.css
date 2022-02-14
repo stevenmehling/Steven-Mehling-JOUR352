@@ -62,4 +62,12 @@ ul li{
 .description{
   margin: 10px 0 10px 0;
 }
+.menu{
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+}
+.menu li{
+  display: inline;
+}
 
