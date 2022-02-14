@@ -39,20 +39,21 @@ b{
   min-width: 300px;
 }
 /*styled my job titles*/
-h3{
+.jobtitle{
   font-size: 1.5em;
   font-weight: 600;
 }
 /*styled the organizations I worked for*/
-h4{
-  font-size: 1.5em;
+.organization{
+  font-size: 1.25em;
   font-weight: 400;
 }
 /*styled the dates I worked each job from*/
-h5{
+.date{
   font-weight: 400;
   font-size: 1em;
   font-style: italic;
+  margin-top: 2px;
 }
 /*styled all the items that are bulleted*/
 ul li{
