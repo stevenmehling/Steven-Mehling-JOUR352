@@ -62,23 +62,35 @@ img{
 ul li{
   font-size: 1em;
 }
+
 .top{
   width: 60%;
   min-width: 300px;
   margin: 0 auto;
   margin-bottom: 30px;
 }
+
 .menu{
   margin: 0px;
   padding: 0px;
   text-align: center;
 }
+
 .menu li{
   display: inline;
 }
+
 #degree{
   margin: 5px 0 0 0;
 }
+
 #do{
   margin: 5px 0 0 0;
+}
+
+#container{
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding-bottom: 50px;
 }
