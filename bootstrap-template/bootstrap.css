@@ -1,0 +1,94 @@
+body {
+    font-family: 'open sans', Arial, sans-serif;
+    font-size: 1em;
+    color: #444;
+    font-weight: 400;
+}
+/*styles all section headers*/
+#name{
+  font-size: 3em;  
+  color: #33485e;
+  text-transform: uppercase;
+  text-align: center;
+  border-bottom: 1px solid #33485e;
+  width: 60%;
+  min-width: 300px;
+  margin: 0 auto;
+}
+/*commented out my image*/
+img{
+  display: none;
+}
+/*styles my bold text*/
+#title{
+  text-transform: uppercase;
+  font-size: 1.5em;
+  color: #33485e;
+  font-weight: 600;
+  text-align: center;
+  margin: 20px 0 0 0;
+}
+/*styled my section headers*/
+.sectionheader{
+  font-size: 1.5em;
+  text-transform: uppercase;
+  background-color: #33485e;
+  color: white;
+  font-weight: 400;
+  margin: 20px 0 10px 0;
+  width: 70%;
+  min-width: 300px;
+}
+/*styled my job titles*/
+.jobtitle{
+  font-size: 1.5em;
+  font-weight: 600;
+}
+/*styled the organizations I worked for*/
+.organization{
+  font-size: 1.25em;
+  font-weight: 400;
+}
+/*styled the dates I worked each job from*/
+.date{
+  font-weight: 400;
+  font-size: 1em;
+  font-style: italic;
+  margin-top: 2px;
+}
+/*styled all the items that are bulleted*/
+ul li{
+  font-size: 1em;
+}
+
+.top{
+  width: 60%;
+  min-width: 300px;
+  margin: 0 auto;
+  margin-bottom: 30px;
+}
+
+.menu{
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+}
+
+.menu li{
+  display: inline;
+}
+
+#degree{
+  margin: 5px 0 0 0;
+}
+
+#do{
+  margin: 5px 0 0 0;
+}
+
+#container{
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding-bottom: 50px;
+}
