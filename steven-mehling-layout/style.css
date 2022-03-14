@@ -14,8 +14,59 @@
     color: white;
     position: absolute;
     top: 50%;
-    left: 50;
+    left: 50%;
     transform: translate(-50%, -50%);
     font-size: 3em;
 }
 
+#byline{
+    font-family: Helvetica, sans-serif;
+    font-size: 14px;
+    font-style: italic;
+    text-align: center;
+}
+
+h1{
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+}
+
+p{
+    font-family: Georgia, sans-serif;
+    font-size: 13px;
+    line-height: 18px;
+    text-align: center;
+}
+
+blockquote{
+    font-size: 2em;
+    color: white;
+    background-color: blueviolet;
+    padding: 5px;
+    text-align: center;
+}
+
+#images{
+    text-align: center;
+}
+
+#images figcaption{
+    font-size: 0.5em;
+    font-style: italic;
+}
+
+#gif{
+    text-align: center;
+}
+
+#gif figcaption{
+    font-size: 0.5em;
+}
+
+ul li{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
