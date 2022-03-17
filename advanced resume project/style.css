@@ -1,0 +1,108 @@
+.mywork{
+    color: azure;
+}
+
+#title {
+    text-align: center;
+    font-family: Georgia, Sans-Serif;
+    color: white;
+    font-size: 1em;
+    padding: 100px;
+    margin: auto;
+    margin-top: 10px;
+    width: 100%;
+    background-color: cornflowerblue;
+    border: 6px solid azure;
+}
+
+#pfp{
+    border-radius: 100%;
+    border: 6px solid dimgray;
+    width: 15vw;
+    height: 15vw;
+    text-align: center;
+}
+
+#profile {
+    text-align: center;
+    line-height: 1px;
+    font-size: 2vw;
+    position: relative;
+    top: -7.5vw;
+}
+
+div{
+    display: block;
+}
+
+h2{
+    font-family: Georgia, sans-serif;
+    font-size: 1.5em;
+    color: azure;
+}
+
+#videos{
+    text-align: center;
+}
+
+#masthead{
+    font-family: Georgia, sans-serif;
+    font-size: 1em;
+}
+
+#container{
+    font-family: Georgia, Sans-serif;
+    font-size: 1em;
+}
+
+h3{
+    font-family: Georgia, Sans-serif;
+    font-size: 1em;
+    color: azure;
+}
+
+.aboutme{
+    color: azure;
+    
+}
+
+.contact{
+    color: azure;
+    text-align: right;
+    font-size: 1.5em;
+    font-family: Georgia, Sans-Serif;
+}
+
+.Home{
+    text-align: left;
+    color: azure;
+    font-size: 1.5em;
+    font-family: Georgia, Sans-Serif;
+    position: absolute;
+}
+
+#skills{
+    background-color: azure;
+    font-size: 1em;
+
+}
+
+.form{
+    font-family: Georgia, Sans-Serif;
+    background-color: lightgray;
+    font-size: 1em;
+}
+
+.experience{
+   text-align: center; 
+   font-size: 1em;
+   font-family: Georgia, Sans-Serif;
+}
+
+ul li{
+    list-style-type: none;
+}
+
+.sectionheader{
+    font-size: 1.5em;
+}
