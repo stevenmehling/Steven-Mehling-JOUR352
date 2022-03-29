@@ -1,0 +1,35 @@
+#wrapper{
+    text-align: center;
+}
+
+#masthead{
+    text-align: center;
+    position: relative;
+}
+
+#centered{
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 3em;
+}
+
+body{
+    font-family: Helvetica, Arial;
+    font-size: 12px;
+    line-height: 2em;
+}
+
+blockquote{
+    background-color:whitesmoke;
+    font-size: medium;
+    color:lightcoral;
+}
+
+ul li{
+    list-style: none;
+    font-size: 1.5em;
+}
+
