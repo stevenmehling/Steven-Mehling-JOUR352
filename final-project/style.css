@@ -107,9 +107,9 @@
     text-align: center;
   }
 
-  #christian{
-      height: 500px;
-      width: 750px;
+  #pictures{
+      height: absolute;
+      width: absolute;
       text-align: center;
   }
 
@@ -117,18 +117,6 @@
       text-align: center;
       font-family: Georgia, 'Times New Roman', Times, serif;
       font-size: .8em;
-  }
-
-  #don{
-    height: 500px;
-    width: 750px;
-    text-align: center;
-  }
-
-  .amos{
-    height: 500px;
-    width: 750px;
-    text-align: center;
   }
 
   #victims{

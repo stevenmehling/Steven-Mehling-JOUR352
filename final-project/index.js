@@ -6,3 +6,4 @@ function myFunction() {
   var scrolled = (winScroll / height) * 100;
   document.getElementById("myBar").style.width = scrolled + "%";
 }
+//this code is courtesy of w3 schools, where I found the progress bar code//
